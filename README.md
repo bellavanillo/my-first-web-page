@@ -1,12 +1,12 @@
-# _{My first webpage}_
+# _My first webpage_
 
-#### _{HTML Exercise for Epicodus}, {11.13.2017}_
+#### _HTML Exercise for Epicodus, {11.13.2017}_
 
-#### By _**{Isabella Vanillo Anduin Mooney}**_
+#### By _**Isabella Vanillo Anduin Mooney**_
 
 ## Description
 
-_{This webpage demonstrates the use of git and html.}_
+_This webpage demonstrates the use of git and html._
 
 ## Setup/Installation Requirements
 
@@ -18,18 +18,18 @@ _{This webpage demonstrates the use of git and html.}_
 
 ## Known Bugs
 
-_{No known bugs}_
+_No known bugs_
 
 ## Support and contact details
 
-_{If you run into any issues or have questions, ideas or concerns, please contact me at bellavanillo@gmail.com. Or feel free to make a contribution to the code.}_
+_If you run into any issues or have questions, ideas or concerns, please contact me at bellavanillo@gmail.com. Or feel free to make a contribution to the code._
 
 ## Technologies Used
 
-_{html.}_
+_html._
 
 ### License
 
-*{This software is licensed under the MIT license.}*
+*This software is licensed under the MIT license.*
 
-Copyright (c) 2016 **_{Isabella Vanillo, Anduin Mooney}_**
+Copyright (c) 2016 **_Isabella Vanillo, Anduin Mooney_**
